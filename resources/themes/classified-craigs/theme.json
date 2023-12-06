@@ -1,0 +1,13 @@
+{
+  "type": "frontend",
+  "name": "corals-classified-craigs",
+  "caption": "Classified Craigs",
+  "extends": null,
+  "assetPath": "assets\/themes\/classified-craigs",
+  "version": "2.5.1",
+  "css": [
+  ],
+  "js": [
+  ],
+  "platform": "Classified"
+}
